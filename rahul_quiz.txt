@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ==== Quiz Attempt ====
 Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
 Your Answer: a
@@ -49,3 +50,56 @@ Here's the evaluation of the user's answers:
 
 **Score:** 3 / 5 (Q1 is ignored)
 
+=======
+==== Quiz Attempt ====
+Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
+Your Answer: a
+
+Q2: Q: Which of the following rivers is known as the "Sorrow of Bengal"?
+a) Ganga
+b) Brahmaputra
+c) Damodar
+d) Hooghly
+Your Answer: b
+
+Q3: Q: The 'Chipko Movement' in India was primarily associated with:
+a) Wildlife conservation
+b) Forest conservation
+c) Water conservation
+d) Soil conservation
+Your Answer: b
+
+Q4: Q: Who was the first Indian to receive the Nobel Prize in Literature?
+a) C.V. Raman
+b) Amartya Sen
+c) Rabindranath Tagore
+d) Mother Teresa
+Your Answer: c
+
+Q5: Q: The famous 'Konark Sun Temple' is located in which state of India?
+a) Tamil Nadu
+b) Odisha
+c) Karnataka
+d) Andhra Pradesh
+Your Answer: d
+
+Q6: Q: Which of the following is the highest civilian award in India?
+a) Padma Vibhushan
+b) Padma Bhushan
+c) Padma Shri
+d) Bharat Ratna
+Your Answer: d
+
+Gemini Feedback:
+Here's the evaluation of the user's answers:
+
+*   **Q1:** Invalid question. No question text is provided. Therefore, it can't be scored.
+*   **Q2:** Incorrect. The correct answer is (c) Damodar.
+*   **Q3:** Correct. The answer is (b) Forest conservation.
+*   **Q4:** Correct. The answer is (c) Rabindranath Tagore.
+*   **Q5:** Incorrect. The correct answer is (b) Odisha.
+*   **Q6:** Correct. The answer is (d) Bharat Ratna.
+
+**Score:** 3 / 5 (Q1 is ignored)
+
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355

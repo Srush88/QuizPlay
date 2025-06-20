@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quiz Attempt
 Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
 Your answer: a
@@ -635,3 +636,642 @@ User's Answer: c
 *   Total Questions: 5
 *   **Score: 3/5**
 
+=======
+Quiz Attempt
+Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
+Your answer: a
+
+Q2: 1.  Which of the following rivers is known as the 'Sorrow of Bengal'?
+    A) Ganga
+    B) Brahmaputra
+    C) Kosi
+    D) Damodar
+Your answer: b
+
+Q3: 2.  The famous Dilwara Temples are located in which state?
+    A) Uttar Pradesh
+    B) Rajasthan
+    C) Madhya Pradesh
+    D) Maharashtra
+Your answer: a
+
+Q4: 3.  Who was the first woman Governor of an Indian state?
+    A) Indira Gandhi
+    B) Sarojini Naidu
+    C) Vijayalakshmi Pandit
+    D) Sucheta Kriplani
+Your answer: c
+
+Q5: 4.  The 'Chipko Movement' was primarily associated with:
+    A) Wildlife Conservation
+    B) Forest Conservation
+    C) Water Conservation
+    D) Soil Conservation
+Your answer: b
+
+Q6: 5.  Which Indian city is known as the "Silicon Valley of India"?
+    A) Mumbai
+    B) Chennai
+    C) Hyderabad
+    D) Bengaluru
+Your answer: d
+
+Gemini Feedback
+Okay, here's the breakdown of the quiz results:
+
+**Q1: General Knowledge - Answer not specific enough to grade.**
+
+**Q2: Sorrow of Bengal**
+
+*   **Correct Answer:** D) Damodar
+*   **User Answer:** B) Brahmaputra
+*   **Correct?** No
+
+**Q3: Dilwara Temples Location**
+
+*   **Correct Answer:** B) Rajasthan
+*   **User Answer:** A) Uttar Pradesh
+*   **Correct?** No
+
+**Q4: First Woman Governor**
+
+*   **Correct Answer:** B) Sarojini Naidu
+*   **User Answer:** C) Vijayalakshmi Pandit
+*   **Correct?** No
+
+**Q5: Chipko Movement**
+
+*   **Correct Answer:** B) Forest Conservation
+*   **User Answer:** B) Forest Conservation
+*   **Correct?** Yes
+
+**Q6: Silicon Valley of India**
+
+*   **Correct Answer:** D) Bengaluru
+*   **User Answer:** D) Bengaluru
+*   **Correct?** Yes
+
+**Final Score: 2 / 5**
+==== Quiz Attempt ====
+Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
+Your Answer: a
+
+Q2: Q: Which of the following rivers is known as the "Sorrow of Bihar"?
+a) Ganga
+b) Kosi
+c) Brahmaputra
+d) Yamuna
+Your Answer: b
+
+Q3: Q: The Indian Space Research Organisation (ISRO) headquarters is located in which city?
+a) Mumbai
+b) Chennai
+c) Bangalore
+d) New Delhi
+Your Answer: c
+
+Q4: Q: Who was the first woman Prime Minister of India?
+a) Pratibha Patil
+b) Indira Gandhi
+c) Sarojini Naidu
+d) Vijayalakshmi Pandit
+Your Answer: b
+
+Q5: Q: Which of the following dance forms originated in Tamil Nadu?
+a) Kathak
+b) Kuchipudi
+c) Bharatanatyam
+d) Odissi
+Your Answer: b
+
+Q6: Q: The "Iron Man of India" is a title commonly attributed to which Indian leader?
+a) Mahatma Gandhi
+b) Jawaharlal Nehru
+c) Sardar Vallabhbhai Patel
+d) Subhas Chandra Bose
+Your Answer: d
+
+Gemini Feedback:
+Here's the evaluation of the user's answers:
+
+*   **Q1:** Unclear Question. No points awarded. **Score: 0**
+*   **Q2:** Correct Answer (Kosi). **Score: 1**
+*   **Q3:** Correct Answer (Bangalore). **Score: 1**
+*   **Q4:** Correct Answer (Indira Gandhi). **Score: 1**
+*   **Q5:** Incorrect Answer (Bharatanatyam is the correct answer). **Score: 0**
+*   **Q6:** Incorrect Answer (Sardar Vallabhbhai Patel is the correct answer). **Score: 0**
+
+**Total Score: 3 / 5**
+
+==== Quiz Attempt ====
+Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
+Your Answer: a
+
+Q2: Q: Which of the following rivers is known as the "Sorrow of Bihar"?
+a) Ganga
+b) Kosi
+c) Son
+d) Yamuna
+a) Kosi
+Your Answer: b
+
+Q3: Q: Which Indian state is known as the "Spice Garden of India"?
+a) Karnataka
+b) Kerala
+c) Assam
+d) Tamil Nadu
+b) Kerala
+Your Answer: b
+
+Q4: Q: The Gateway of India is located in which city?
+a) New Delhi
+b) Kolkata
+c) Mumbai
+d) Chennai
+c) Mumbai
+Your Answer: c
+
+Q5: Q: Who was the first woman Prime Minister of India?
+a) Indira Gandhi
+b) Pratibha Patil
+c) Sarojini Naidu
+d) Vijayalakshmi Pandit
+a) Indira Gandhi
+Your Answer: a
+
+Q6: Q: Which Indian festival is also known as the "Festival of Lights"?
+a) Holi
+b) Diwali
+c) Dussehra
+d) Pongal
+b) Diwali
+Your Answer: b
+
+==== Quiz Attempt ====
+Q1: Q1: Which Indian state is known as the "Spice Garden of India"?
+a) Tamil Nadu
+b) Karnataka
+c) Kerala
+d) Andhra Pradesh
+Your Answer: c
+
+Q2: Q2: The famous Ajanta Caves, known for their Buddhist cave paintings, are located in which state?
+a) Maharashtra
+b) Rajasthan
+c) Madhya Pradesh
+d) Gujarat
+Your Answer: a
+
+Q3: Q3: Who was the first woman to become the Governor of an Indian state?
+a) Indira Gandhi
+b) Sarojini Naidu
+c) Vijayalakshmi Pandit
+d) Sucheta Kriplani
+Your Answer: b
+
+Q4: Q4: Which of the following rivers is known as the 'Sorrow of Bengal'?
+a) Ganga
+b) Brahmaputra
+c) Damodar
+d) Hooghly
+Your Answer: b
+
+Q5: Q5: The Indian Space Research Organisation (ISRO) was established in which year?
+a) 1959
+b) 1969
+c) 1979
+d) 1989
+Your Answer: b
+
+==== Quiz Attempt ====Q1: Q: Which of the following rivers is known as the 'Sorrow of Bengal'?
+a) Ganga
+b) Brahmaputra
+c) Kosi
+d) Damodar
+Your Answer: c
+
+Q2: Q: The Indian Constitution came into effect on which date?
+a) August 15, 1947
+b) January 26, 1950
+c) August 15, 1950
+d) January 26, 1949
+Your Answer: d
+
+Q3: Q: Who was the first President of India?
+a) Jawaharlal Nehru
+b) Sardar Vallabhbhai Patel
+c) Dr. Rajendra Prasad
+d) Mahatma Gandhi
+Your Answer: c
+
+Q4: Q: The southernmost point of India is:
+a) Kanyakumari
+b) Indira Point
+c) Port Blair
+d) Minicoy Island
+Your Answer: b
+
+Q5: Q: Which of the following states is known as the 'Spice Garden of India'?
+a) Karnataka
+b) Kerala
+c) Assam
+d) West Bengal
+Your Answer: b
+
+Gemini Feedback:
+Here's the evaluation of the quiz:
+
+Q1: Q: Which of the following rivers is known as the 'Sorrow of Bengal'?
+a) Ganga
+b) Brahmaputra
+c) Kosi
+d) Damodar
+User's Answer: c ❌
+Correct Option: d
+
+Q2: Q: The Indian Constitution came into effect on which date?
+a) August 15, 1947
+b) January 26, 1950
+c) August 15, 1950
+d) January 26, 1949
+User's Answer: d ❌
+Correct Option: b
+
+Q3: Q: Who was the first President of India?
+a) Jawaharlal Nehru
+b) Sardar Vallabhbhai Patel
+c) Dr. Rajendra Prasad
+d) Mahatma Gandhi
+User's Answer: c ✅
+Correct Option: c
+
+Q4: Q: The southernmost point of India is:
+a) Kanyakumari
+b) Indira Point
+c) Port Blair
+d) Minicoy Island
+User's Answer: b ✅
+Correct Option: b
+
+Q5: Q: Which of the following states is known as the 'Spice Garden of India'?
+a) Karnataka
+b) Kerala
+c) Assam
+d) West Bengal
+User's Answer: b ✅
+Correct Option: b
+
+Total Score: 3 / 5
+
+==== Quiz Attempt ====
+Q1: Q: Which of the following is the state animal of Maharashtra?
+a) Indian Giant Squirrel (Shekru)
+b) Tiger
+c) Lion-tailed Macaque
+d) Indian Elephant
+Your Answer: a
+
+Q2: Q: The Ajanta Caves, a UNESCO World Heritage Site, are primarily associated with which religion?
+a) Jainism
+b) Hinduism
+c) Buddhism
+d) Sikhism
+Your Answer: c
+
+Q3: Q: Which of the following rivers is NOT a major river flowing through Maharashtra?
+a) Godavari
+b) Krishna
+c) Tapi
+d) Ganga
+Your Answer: d
+
+Q4: Q: Who was the first Chief Minister of Maharashtra after its formation in 1960?
+a) Yashwantrao Chavan
+b) Vasantrao Naik
+c) Shankarrao Chavan
+d) Morarji Desai
+Your Answer: a
+
+Q5: Q: Lavani is a traditional folk dance form primarily associated with which state?
+a) Gujarat
+b) Rajasthan
+c) Maharashtra
+d) Karnataka
+Your Answer: c
+
+Gemini Feedback:
+Okay, here's the evaluation of the user's answers:
+
+Q1: Q: Which of the following is the state animal of Maharashtra?
+a) Indian Giant Squirrel (Shekru)
+b) Tiger
+c) Lion-tailed Macaque
+d) Indian Elephant
+User's Answer: a
+* **Correct ✅**
+* **Correct Option: a**
+
+Q2: Q: The Ajanta Caves, a UNESCO World Heritage Site, are primarily associated with which religion?
+a) Jainism
+b) Hinduism
+c) Buddhism
+d) Sikhism
+User's Answer: c
+* **Correct ✅**
+* **Correct Option: c**
+
+Q3: Q: Which of the following rivers is NOT a major river flowing through Maharashtra?
+a) Godavari
+b) Krishna
+c) Tapi
+d) Ganga
+User's Answer: d
+* **Correct ✅**
+* **Correct Option: d**
+
+Q4: Q: Who was the first Chief Minister of Maharashtra after its formation in 1960?
+a) Yashwantrao Chavan
+b) Vasantrao Naik
+c) Shankarrao Chavan
+d) Morarji Desai
+User's Answer: a
+* **Correct ✅**
+* **Correct Option: a**
+
+Q5: Q: Lavani is a traditional folk dance form primarily associated with which state?
+a) Gujarat
+b) Rajasthan
+c) Maharashtra
+d) Karnataka
+User's Answer: c
+* **Correct ✅**
+* **Correct Option: c**
+
+**Total Score: 5 / 5**
+
+==== Quiz Attempt ====
+Q1: Q: Which of these animals is a marsupial?
+a) Lion
+b) Elephant
+c) Kangaroo
+d) Zebra
+Your Answer: a
+
+Q2: Q: What is the largest animal on Earth?
+a) African Elephant
+b) Blue Whale
+c) Giraffe
+d) Polar Bear
+Your Answer: b
+
+Q3: Q: Which animal is known for its black and white stripes?
+a) Leopard
+b) Tiger
+c) Zebra
+d) Cheetah
+Your Answer: c
+
+Q4: Q: What is the name of a group of lions?
+a) Herd
+b) Pack
+c) Pride
+d) Swarm
+Your Answer: b
+
+Q5: Q: Which of these animals can regenerate lost limbs?
+a) Snake
+b) Starfish
+c) Horse
+d) Eagle
+Your Answer: d
+
+Gemini Feedback:
+Okay, here's the breakdown of the quiz answers:
+
+**Q1: Q: Which of these animals is a marsupial?**
+*   a) Lion
+*   b) Elephant
+*   c) Kangaroo
+*   d) Zebra
+*   User's Answer: a
+*   **Correct Answer:** c) Kangaroo
+*   **Correct?** No
+
+**Q2: Q: What is the largest animal on Earth?**
+*   a) African Elephant
+*   b) Blue Whale
+*   c) Giraffe
+*   d) Polar Bear
+*   User's Answer: b
+*   **Correct Answer:** b) Blue Whale
+*   **Correct?** Yes
+
+**Q3: Q: Which animal is known for its black and white stripes?**
+*   a) Leopard
+*   b) Tiger
+*   c) Zebra
+*   d) Cheetah
+*   User's Answer: c
+*   **Correct Answer:** c) Zebra
+*   **Correct?** Yes
+
+**Q4: Q: What is the name of a group of lions?**
+*   a) Herd
+*   b) Pack
+*   c) Pride
+*   d) Swarm
+*   User's Answer: b
+*   **Correct Answer:** c) Pride
+*   **Correct?** No
+
+**Q5: Q: Which of these animals can regenerate lost limbs?**
+*   a) Snake
+*   b) Starfish
+*   c) Horse
+*   d) Eagle
+*   User's Answer: d
+*   **Correct Answer:** b) Starfish
+*   **Correct?** No
+
+**Total Score:**
+
+*   Correct Answers: 2
+*   Total Questions: 5
+*   **Score: 2/5**
+
+==== Quiz Attempt ====
+Q1: Q: Which mountain range runs through Maharashtra, forming a significant geographical feature?
+a) Himalayas
+b) Western Ghats (Sahyadri)
+c) Eastern Ghats
+d) Aravalli Range
+Your Answer: b
+
+Q2: Q: What is the traditional folk dance form of Maharashtra?
+a) Kathak
+b) Bharatanatyam
+c) Lavani
+d) Kuchipudi
+Your Answer: c
+
+Q3: Q: Which city is known as the "Orange City" of Maharashtra?
+a) Mumbai
+b) Pune
+c) Nagpur
+d) Nashik
+Your Answer: d
+
+Q4: Q: Who was the founder of the Maratha Empire?
+a) Shivaji Maharaj
+b) Sambhaji Maharaj
+c) Shahu Maharaj
+d) Bajirao I
+Your Answer: a
+
+Q5: Q: Which river originates in Trimbakeshwar, Maharashtra, and is considered one of the holiest rivers in India?
+a) Ganga
+b) Yamuna
+c) Godavari
+d) Krishna
+Your Answer: b
+
+Gemini Feedback:
+Okay, here's the breakdown of the quiz, including whether the user's answers were correct and the correct options:
+
+**Q1:**
+
+*   **Question:** Which mountain range runs through Maharashtra, forming a significant geographical feature?
+*   **User's Answer:** b) Western Ghats (Sahyadri)
+*   **Correct?** Yes
+*   **Correct Option:** b)
+
+**Q2:**
+
+*   **Question:** What is the traditional folk dance form of Maharashtra?
+*   **User's Answer:** c) Lavani
+*   **Correct?** Yes
+*   **Correct Option:** c)
+
+**Q3:**
+
+*   **Question:** Which city is known as the "Orange City" of Maharashtra?
+*   **User's Answer:** d) Nashik
+*   **Correct?** No
+*   **Correct Option:** c) Nagpur
+
+**Q4:**
+
+*   **Question:** Who was the founder of the Maratha Empire?
+*   **User's Answer:** a) Shivaji Maharaj
+*   **Correct?** Yes
+*   **Correct Option:** a)
+
+**Q5:**
+
+*   **Question:** Which river originates in Trimbakeshwar, Maharashtra, and is considered one of the holiest rivers in India?
+*   **User's Answer:** b) Yamuna
+*   **Correct?** No
+*   **Correct Option:** c) Godavari
+
+**Total Score:**
+
+The user answered 3 out of 5 questions correctly.
+
+**Therefore, the user's total score is 3/5.**
+
+==== Quiz Attempt ====
+Q1: Q: Which mountain range runs through Maharashtra, dividing it into the coastal Konkan and the inland Deccan plateau?
+a) Himalayas
+b) Western Ghats (Sahyadri)
+c) Eastern Ghats
+d) Aravalli Range
+Your Answer: b
+
+Q2: Q: Which of the following rivers is NOT a major river flowing through Maharashtra?
+a) Godavari
+b) Krishna
+c) Tapi
+d) Ganges
+Your Answer: b
+
+Q3: Q: Ajanta and Ellora caves, famous for their rock-cut architecture and murals, are located near which city in Maharashtra?
+a) Mumbai
+b) Pune
+c) Aurangabad
+d) Nagpur
+Your Answer: b
+
+Q4: Q: Who was the Maratha warrior king who founded the Maratha Empire in the 17th century?
+a) Shivaji Maharaj
+b) Sambhaji Maharaj
+c) Bajirao Peshwa
+d) Shahu Maharaj
+Your Answer: a
+
+Q5: Q: Lavani is a popular folk dance form primarily associated with which state?
+a) Gujarat
+b) Rajasthan
+c) Maharashtra
+d) Karnataka
+Your Answer: c
+
+Gemini Feedback:
+Okay, here's the breakdown of the quiz and the user's answers:
+
+**Q1:** Q: Which mountain range runs through Maharashtra, dividing it into the coastal Konkan and the inland Deccan plateau?
+a) Himalayas
+b) Western Ghats (Sahyadri)
+c) Eastern Ghats
+d) Aravalli Range
+User's Answer: b
+
+*   **Correct?** Yes
+*   **Correct Option:** b
+
+**Q2:** Q: Which of the following rivers is NOT a major river flowing through Maharashtra?
+a) Godavari
+b) Krishna
+c) Tapi
+d) Ganges
+User's Answer: b
+
+*   **Correct?** No
+*   **Correct Option:** d
+
+**Q3:** Q: Ajanta and Ellora caves, famous for their rock-cut architecture and murals, are located near which city in Maharashtra?
+a) Mumbai
+b) Pune
+c) Aurangabad
+d) Nagpur
+User's Answer: b
+
+*   **Correct?** No
+*   **Correct Option:** c
+
+**Q4:** Q: Who was the Maratha warrior king who founded the Maratha Empire in the 17th century?
+a) Shivaji Maharaj
+b) Sambhaji Maharaj
+c) Bajirao Peshwa
+d) Shahu Maharaj
+User's Answer: a
+
+*   **Correct?** Yes
+*   **Correct Option:** a
+
+**Q5:** Q: Lavani is a popular folk dance form primarily associated with which state?
+a) Gujarat
+b) Rajasthan
+c) Maharashtra
+d) Karnataka
+User's Answer: c
+
+*   **Correct?** Yes
+*   **Correct Option:** c
+
+**Total Score:**
+
+*   Correct Answers: 3
+*   Total Questions: 5
+*   **Score: 3/5**
+
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355

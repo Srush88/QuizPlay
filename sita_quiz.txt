@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ==== Quiz Attempt ====
 Q1: Q: Which of the following rivers is known as the 'Sorrow of Bengal'?
 a) Ganga
@@ -89,3 +90,96 @@ User's Answer: b
 *   **Total Score:** 4/5
 *   **Incorrect Question:** Q1
 
+=======
+==== Quiz Attempt ====
+Q1: Q: Which of the following rivers is known as the 'Sorrow of Bengal'?
+a) Ganga
+b) Brahmaputra
+c) Kosi
+d) Damodar
+Your Answer: c
+
+Q2: Q: The Indian Constitution was adopted on which date?
+a) January 26, 1950
+b) November 26, 1949
+c) August 15, 1947
+d) October 2, 1869
+Your Answer: b
+
+Q3: Q: Who was the first woman Prime Minister of India?
+a) Indira Gandhi
+b) Pratibha Patil
+c) Sarojini Naidu
+d) Sucheta Kriplani
+Your Answer: a
+
+Q4: Q: The 'Chipko Movement' in India was primarily associated with:
+a) Wildlife conservation
+b) Forest conservation
+c) River cleaning
+d) Eradication of poverty
+Your Answer: b
+
+Q5: Q: Which state is known as the 'Spice Garden of India'?
+a) Karnataka
+b) Kerala
+c) Assam
+d) Andhra Pradesh
+Your Answer: b
+
+Gemini Feedback:
+Here's the evaluation of your multiple-choice answers:
+
+**Q1:** Q: Which of the following rivers is known as the 'Sorrow of Bengal'?
+a) Ganga
+b) Brahmaputra
+c) Kosi
+d) Damodar
+User's Answer: c
+*   **Correct Answer:** d) Damodar
+*   **Evaluation:** Incorrect. The Kosi river is known as the "Sorrow of Bihar" not Bengal.
+*   **Correction:** Damodar
+
+**Q2:** Q: The Indian Constitution was adopted on which date?
+a) January 26, 1950
+b) November 26, 1949
+c) August 15, 1947
+d) October 2, 1869
+User's Answer: b
+*   **Correct Answer:** b) November 26, 1949
+*   **Evaluation:** Correct.
+
+**Q3:** Q: Who was the first woman Prime Minister of India?
+a) Indira Gandhi
+b) Pratibha Patil
+c) Sarojini Naidu
+d) Sucheta Kriplani
+User's Answer: a
+*   **Correct Answer:** a) Indira Gandhi
+*   **Evaluation:** Correct.
+
+**Q4:** Q: The 'Chipko Movement' in India was primarily associated with:
+a) Wildlife conservation
+b) Forest conservation
+c) River cleaning
+d) Eradication of poverty
+User's Answer: b
+*   **Correct Answer:** b) Forest conservation
+*   **Evaluation:** Correct.
+
+**Q5:** Q: Which state is known as the 'Spice Garden of India'?
+a) Karnataka
+b) Kerala
+c) Assam
+d) Andhra Pradesh
+User's Answer: b
+*   **Correct Answer:** b) Kerala
+*   **Evaluation:** Correct.
+
+**Summary:**
+
+*   **Number of Correct Answers:** 4
+*   **Total Score:** 4/5
+*   **Incorrect Question:** Q1
+
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355

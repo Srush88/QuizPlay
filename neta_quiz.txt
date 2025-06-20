@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ==== Quiz Attempt ====
 Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
 Your Answer: a
@@ -54,3 +55,61 @@ Okay, let's evaluate the user's answers:
 
 **Total Score: Assuming the first question can be answered correctly, the final score is 4/5.** Otherwise, the score is 3/5.
 
+=======
+==== Quiz Attempt ====
+Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
+Your Answer: a
+
+Q2: Q: Which Indian state is known as the "Spice Garden of India"?
+a) Kerala
+b) Karnataka
+c) Tamil Nadu
+d) Andhra Pradesh
+Your Answer: a
+
+Q3: Q: The Indian Constitution was adopted on which date?
+a) January 26, 1950
+b) August 15, 1947
+c) November 26, 1949
+d) October 2, 1869
+Your Answer: c
+
+Q4: Q: Who was the first woman Prime Minister of India?
+a) Indira Gandhi
+b) Pratibha Patil
+c) Sarojini Naidu
+d) Sucheta Kriplani
+Your Answer: a
+
+Q5: Q: Which of the following is the highest civilian award in India?
+a) Padma Vibhushan
+b) Padma Bhushan
+c) Bharat Ratna
+d) Padma Shri
+Your Answer: c
+
+Q6: Q: The ancient city of Mohenjo-daro is located in which present-day country?
+a) India
+b) Pakistan
+c) Afghanistan
+d) Bangladesh
+Your Answer: a
+
+Gemini Feedback:
+Okay, let's evaluate the user's answers:
+
+*   **Q1:** The question itself is missing. Therefore, it's impossible to determine if the answer "a" is correct or incorrect. Assuming it has a single correct answer, the evaluation will proceed.
+
+*   **Q2:** Correct. Kerala is indeed known as the "Spice Garden of India." (1 point)
+
+*   **Q3:** Correct. The Indian Constitution was adopted on November 26, 1949. (1 point)
+
+*   **Q4:** Correct. Indira Gandhi was the first woman Prime Minister of India. (1 point)
+
+*   **Q5:** Correct. Bharat Ratna is the highest civilian award in India. (1 point)
+
+*   **Q6:** Incorrect. Mohenjo-daro is located in present-day Pakistan. (0 points)
+
+**Total Score: Assuming the first question can be answered correctly, the final score is 4/5.** Otherwise, the score is 3/5.
+
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355

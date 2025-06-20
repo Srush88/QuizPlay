@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 devansh,4
 seta,3
 rama,4
 neelam,3
 retara,4
 rama,3
+=======
+devansh,4
+seta,3
+rama,4
+neelam,3
+retara,4
+rama,3
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355

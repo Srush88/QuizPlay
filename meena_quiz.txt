@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ==== Quiz Attempt ====
 Q1: Q: Which of the following rivers is known as the 'Sorrow of Bihar'?
 a) Ganga
@@ -180,3 +181,187 @@ Okay, I will examine the quiz and provide feedback on each question.
 
 **Total Score: 5/5**
 
+=======
+==== Quiz Attempt ====
+Q1: Q: Which of the following rivers is known as the 'Sorrow of Bihar'?
+a) Ganga
+b) Kosi
+c) Son
+d) Damodar
+Your Answer: b
+
+Q2: Q: The Indian Constitution was adopted on which date?
+a) January 26, 1950
+b) August 15, 1947
+c) November 26, 1949
+d) October 2, 1869
+Your Answer: c
+
+Q3: Q: Who was the first President of India?
+a) Jawaharlal Nehru
+b) Sardar Vallabhbhai Patel
+c) Dr. Rajendra Prasad
+d) Mahatma Gandhi
+Your Answer: a
+
+Q4: Q: Which state is known as the 'Spice Garden of India'?
+a) Kerala
+b) Karnataka
+c) Tamil Nadu
+d) Andhra Pradesh
+Your Answer: a
+
+Q5: Q: The Gateway of India is located in which city?
+a) New Delhi
+b) Mumbai
+c) Kolkata
+d) Chennai
+Your Answer: b
+
+Gemini Feedback:
+Okay, here's the breakdown of the quiz results:
+
+**Q1:** Q: Which of the following rivers is known as the 'Sorrow of Bihar'?
+a) Ganga
+b) Kosi
+c) Son
+d) Damodar
+User's Answer: b
+
+*   **Correct:** Yes
+*   **Correct Option:** b
+
+**Q2:** Q: The Indian Constitution was adopted on which date?
+a) January 26, 1950
+b) August 15, 1947
+c) November 26, 1949
+d) October 2, 1869
+User's Answer: c
+
+*   **Correct:** Yes
+*   **Correct Option:** c
+
+**Q3:** Q: Who was the first President of India?
+a) Jawaharlal Nehru
+b) Sardar Vallabhbhai Patel
+c) Dr. Rajendra Prasad
+d) Mahatma Gandhi
+User's Answer: a
+
+*   **Correct:** No
+*   **Correct Option:** c
+*   **Correct Answer and Explanation:** The correct answer is **c) Dr. Rajendra Prasad**. Jawaharlal Nehru was the first Prime Minister of India, not the President.
+
+**Q4:** Q: Which state is known as the 'Spice Garden of India'?
+a) Kerala
+b) Karnataka
+c) Tamil Nadu
+d) Andhra Pradesh
+User's Answer: a
+
+*   **Correct:** Yes
+*   **Correct Option:** a
+
+**Q5:** Q: The Gateway of India is located in which city?
+a) New Delhi
+b) Mumbai
+c) Kolkata
+d) Chennai
+User's Answer: b
+
+*   **Correct:** Yes
+*   **Correct Option:** b
+
+**Total Score:**
+
+*   Correct Answers: 4
+*   Incorrect Answers: 1
+*   **Total Score: 4/5**
+
+==== Quiz Attempt ====
+Q1: Q: Which mountain range runs through Maharashtra, significantly influencing its geography and climate?
+a) Himalayas
+b) Aravalli Range
+c) Western Ghats (Sahyadri)
+d) Eastern Ghats
+Your Answer: c
+
+Q2: Q: What is the official language of Maharashtra?
+a) Hindi
+b) Marathi
+c) Gujarati
+d) Telugu
+Your Answer: b
+
+Q3: Q: Which of the following historical figures is most closely associated with the Maratha Empire?
+a) Ashoka the Great
+b) Akbar
+c) Chhatrapati Shivaji Maharaj
+d) Mahatma Gandhi
+Your Answer: c
+
+Q4: Q: Which city is often referred to as the "Financial Capital of India" and is located in Maharashtra?
+a) New Delhi
+b) Kolkata
+c) Chennai
+d) Mumbai
+Your Answer: d
+
+Q5: Q: Ajanta and Ellora caves, famous for their ancient rock-cut architecture and cave paintings, are located in which district of Maharashtra?
+a) Pune
+b) Aurangabad
+c) Nagpur
+d) Nashik
+Your Answer: b
+
+Gemini Feedback:
+Okay, I will examine the quiz and provide feedback on each question.
+
+**Q1: Q: Which mountain range runs through Maharashtra, significantly influencing its geography and climate?**
+*   a) Himalayas
+*   b) Aravalli Range
+*   c) Western Ghats (Sahyadri)
+*   d) Eastern Ghats
+*   **User's Answer: c**
+*   **Correct:** Yes
+*   **Correct Option:** c
+
+**Q2: Q: What is the official language of Maharashtra?**
+*   a) Hindi
+*   b) Marathi
+*   c) Gujarati
+*   d) Telugu
+*   **User's Answer: b**
+*   **Correct:** Yes
+*   **Correct Option:** b
+
+**Q3: Q: Which of the following historical figures is most closely associated with the Maratha Empire?**
+*   a) Ashoka the Great
+*   b) Akbar
+*   c) Chhatrapati Shivaji Maharaj
+*   d) Mahatma Gandhi
+*   **User's Answer: c**
+*   **Correct:** Yes
+*   **Correct Option:** c
+
+**Q4: Q: Which city is often referred to as the "Financial Capital of India" and is located in Maharashtra?**
+*   a) New Delhi
+*   b) Kolkata
+*   c) Chennai
+*   d) Mumbai
+*   **User's Answer: d**
+*   **Correct:** Yes
+*   **Correct Option:** d
+
+**Q5: Q: Ajanta and Ellora caves, famous for their ancient rock-cut architecture and cave paintings, are located in which district of Maharashtra?**
+*   a) Pune
+*   b) Aurangabad
+*   c) Nagpur
+*   d) Nashik
+*   **User's Answer: b**
+*   **Correct:** Yes
+*   **Correct Option:** b
+
+**Total Score: 5/5**
+
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355

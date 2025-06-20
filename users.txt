@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 rama,1234
 prajish,1234
 prajish1,asdfg
@@ -7,4 +8,15 @@ nisha1,bhdc
 devi,1234
 tara,12356
 sita,45678
+=======
+rama,1234
+prajish,1234
+prajish1,asdfg
+revati,jhefnjd
+nisha,1124
+nisha1,bhdc
+devi,1234
+tara,12356
+sita,45678
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355
 meena,23124

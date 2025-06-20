@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ==== Quiz Attempt ====
 Q1: Q: Which of the following rivers is known as the 'Sorrow of Bihar'?
 a) Ganga
@@ -68,3 +69,75 @@ Here's the evaluation of your answers:
 *   Total Score: 5 / 5
 *   Incorrect Answers: 0
 
+=======
+==== Quiz Attempt ====
+Q1: Q: Which of the following rivers is known as the 'Sorrow of Bihar'?
+a) Ganga
+b) Kosi
+c) Son
+d) Damodar
+Your Answer: b
+
+Q2: Q: The Indian Constitution was adopted on which date?
+a) January 26, 1950
+b) August 15, 1947
+c) November 26, 1949
+d) October 2, 1869
+Your Answer: c
+
+Q3: Q: Who was the first woman Prime Minister of India?
+a) Indira Gandhi
+b) Pratibha Patil
+c) Sarojini Naidu
+d) Sucheta Kriplani
+Your Answer: a
+
+Q4: Q: The Gateway of India is located in which city?
+a) New Delhi
+b) Mumbai
+c) Kolkata
+d) Chennai
+Your Answer: b
+
+Q5: Q: Which of the following is the highest civilian award in India?
+a) Padma Vibhushan
+b) Bharat Ratna
+c) Padma Bhushan
+d) Padma Shri
+Your Answer: b
+
+Gemini Feedback:
+Here's the evaluation of your answers:
+
+*   **Q1:**
+    *   Correct Answer: b) Kosi
+    *   User's Answer: b)
+    *   Evaluation: Correct
+
+*   **Q2:**
+    *   Correct Answer: c) November 26, 1949
+    *   User's Answer: c)
+    *   Evaluation: Correct
+
+*   **Q3:**
+    *   Correct Answer: a) Indira Gandhi
+    *   User's Answer: a)
+    *   Evaluation: Correct
+
+*   **Q4:**
+    *   Correct Answer: b) Mumbai
+    *   User's Answer: b)
+    *   Evaluation: Correct
+
+*   **Q5:**
+    *   Correct Answer: b) Bharat Ratna
+    *   User's Answer: b)
+    *   Evaluation: Correct
+
+**Summary:**
+
+*   Number of Correct Answers: 5
+*   Total Score: 5 / 5
+*   Incorrect Answers: 0
+
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355

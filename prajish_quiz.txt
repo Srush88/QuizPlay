@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ==== Quiz Attempt ====
 Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
 Your Answer: d
@@ -191,3 +192,198 @@ Okay, here's the breakdown of your answers:
 
 **Total Score: 4 / 5**
 
+=======
+==== Quiz Attempt ====
+Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
+Your Answer: d
+
+Q2: Q: Which of the following is the oldest mountain range in India?
+a) Himalayas
+b) Aravalli Range
+c) Western Ghats
+d) Eastern Ghats
+Your Answer: a
+
+Q3: Q: The Indian National Congress was founded in which year?
+a) 1857
+b) 1885
+c) 1905
+d) 1947
+Your Answer: a
+
+Q4: Q: The 'Chipko Movement' was primarily associated with which cause?
+a) Wildlife conservation
+b) Forest conservation
+c) Water conservation
+d) Pollution control
+Your Answer: b
+
+Q5: Q: Who was the first woman Prime Minister of India?
+a) Indira Gandhi
+b) Pratibha Patil
+c) Sarojini Naidu
+d) Sucheta Kriplani
+Your Answer: a
+
+Q6: Q: The Reserve Bank of India (RBI) was nationalized in which year?
+a) 1935
+b) 1949
+c) 1969
+d) 1991
+Your Answer: b
+
+Gemini Feedback:
+Here's an evaluation of the user's answers, with a breakdown of which answers are correct and the final score:
+
+*   **Q1: Irrelevant Question** - No correct answer here, it's just introducing the quiz.
+*   **Q2: Correct Answer:** b) Aravalli Range
+    *   User's Answer: a) Himalayas - **Incorrect**
+*   **Q3: Correct Answer:** b) 1885
+    *   User's Answer: a) 1857 - **Incorrect**
+*   **Q4: Correct Answer:** b) Forest conservation
+    *   User's Answer: b) Forest conservation - **Correct**
+*   **Q5: Correct Answer:** a) Indira Gandhi
+    *   User's Answer: a) Indira Gandhi - **Correct**
+*   **Q6: Correct Answer:** b) 1949
+    *   User's Answer: b) 1949 - **Correct**
+
+**Total Score: 3 / 5**
+
+==== Quiz Attempt ====
+Q1: Q: Which of the following is India's highest civilian award?
+a) Padma Vibhushan
+b) Bharat Ratna
+c) Padma Bhushan
+d) Ashok Chakra
+Your Answer: a
+
+Q2: Q: The Indian Space Research Organisation (ISRO) headquarters is located in:
+a) New Delhi
+b) Bengaluru
+c) Chennai
+d) Mumbai
+Your Answer: b
+
+Q3: Q: The "Iron Man of India" is a title commonly attributed to:
+a) Jawaharlal Nehru
+b) Mahatma Gandhi
+c) Sardar Vallabhbhai Patel
+d) Subhas Chandra Bose
+Your Answer: c
+
+Q4: Q: Which river is known as the "Sorrow of Bihar"?
+a) Ganga
+b) Kosi
+c) Yamuna
+d) Son
+Your Answer: b
+
+Q5: Q: The Khajuraho temples are located in which state?
+a) Rajasthan
+b) Uttar Pradesh
+c) Madhya Pradesh
+d) Maharashtra
+Your Answer: a
+
+Gemini Feedback:
+Okay, here's the breakdown of your quiz answers:
+
+**Q1: Q: Which of the following is India's highest civilian award?**
+*   User's Answer: a) Padma Vibhushan
+*   Correct: **b) Bharat Ratna**
+*   Explanation: Bharat Ratna is the highest civilian award in India, followed by Padma Vibhushan, Padma Bhushan, and Padma Shri.
+
+**Q2: Q: The Indian Space Research Organisation (ISRO) headquarters is located in:**
+*   User's Answer: b) Bengaluru
+*   Correct: **b) Bengaluru**
+*   Explanation: Correct! ISRO's headquarters are indeed in Bengaluru.
+
+**Q3: Q: The "Iron Man of India" is a title commonly attributed to:**
+*   User's Answer: c) Sardar Vallabhbhai Patel
+*   Correct: **c) Sardar Vallabhbhai Patel**
+*   Explanation: Correct! Sardar Vallabhbhai Patel is known as the Iron Man of India.
+
+**Q4: Q: Which river is known as the "Sorrow of Bihar"?**
+*   User's Answer: b) Kosi
+*   Correct: **b) Kosi**
+*   Explanation: Correct! The Kosi river is known as the "Sorrow of Bihar" due to its frequent floods.
+
+**Q5: Q: The Khajuraho temples are located in which state?**
+*   User's Answer: a) Rajasthan
+*   Correct: **c) Madhya Pradesh**
+*   Explanation: The Khajuraho temples, famous for their intricate sculptures, are located in Madhya Pradesh.
+
+**Total Score:**
+
+*   Correct Answers: 3
+*   Total Questions: 5
+*   Score: 3/5
+
+==== Quiz Attempt ====
+Q1: Q: Which of the following is a key difference between strong AI and weak AI?
+a) Strong AI can only perform specific tasks, while weak AI can perform any task.
+b) Strong AI aims to truly understand and possess consciousness, while weak AI simulates intelligence for a specific purpose.
+c) Strong AI requires significantly more computational power than weak AI.
+d) Weak AI is more ethical than strong AI.
+Your Answer: a
+
+Q2: Q: Which of the following is NOT a common application of AI in healthcare?
+a) Diagnosing diseases from medical images.
+b) Personalizing treatment plans based on patient data.
+c) Automatically cleaning hospital rooms.
+d) Predicting patient outcomes and risks.
+Your Answer: c
+
+Q3: Q: Which of the following is a potential ethical concern associated with the use of AI in criminal justice?
+a) Increased accuracy in identifying criminals.
+b) Bias in algorithms leading to unfair targeting of certain groups.
+c) Reduced reliance on human judgment.
+d) Faster processing of evidence.
+Your Answer: b
+
+Q4: Q: What type of AI is characterized by learning from data through trial and error to maximize a reward?
+a) Supervised learning.
+b) Unsupervised learning.
+c) Reinforcement learning.
+d) Deep learning.
+Your Answer: c
+
+Q5: Q: Which of the following best describes the Turing Test?
+a) A test to measure the processing speed of an AI.
+b) A test to determine if an AI can exhibit behavior indistinguishable from that of a human.
+c) A test to evaluate the ethical implications of AI.
+d) A test to assess the complexity of an AI's neural network.
+Your Answer: b
+
+Gemini Feedback:
+Okay, here's the breakdown of your answers:
+
+**Q1: Q: Which of the following is a key difference between strong AI and weak AI?**
+*   User's Answer: a) Strong AI can only perform specific tasks, while weak AI can perform any task.
+*   **Correct?** No
+*   **Correct Option:** b) Strong AI aims to truly understand and possess consciousness, while weak AI simulates intelligence for a specific purpose.
+*   **Explanation:** Strong AI aims to create machines that truly *think* and are conscious, while weak AI simply mimics intelligence to perform specific tasks without genuine understanding.
+
+**Q2: Q: Which of the following is NOT a common application of AI in healthcare?**
+*   User's Answer: c) Automatically cleaning hospital rooms.
+*   **Correct?** Yes
+*   **Correct Option:** c)
+
+**Q3: Q: Which of the following is a potential ethical concern associated with the use of AI in criminal justice?**
+*   User's Answer: b) Bias in algorithms leading to unfair targeting of certain groups.
+*   **Correct?** Yes
+*   **Correct Option:** b)
+
+**Q4: Q: What type of AI is characterized by learning from data through trial and error to maximize a reward?**
+*   User's Answer: c) Reinforcement learning.
+*   **Correct?** Yes
+*   **Correct Option:** c)
+
+**Q5: Q: Which of the following best describes the Turing Test?**
+*   User's Answer: b) A test to determine if an AI can exhibit behavior indistinguishable from that of a human.
+*   **Correct?** Yes
+*   **Correct Option:** b)
+
+**Total Score: 4 / 5**
+
+>>>>>>> 80bb0d3f29114eb20b86ce4bfa04390291fa2355
