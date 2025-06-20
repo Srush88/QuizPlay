@@ -1,0 +1,61 @@
+==== Quiz Attempt ====
+Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
+Your Answer: d
+
+Q2: Q: Which of the following mountain ranges is the oldest in India?
+a) Himalayas
+b) Western Ghats
+c) Aravalli Range
+d) Eastern Ghats
+Your Answer: a
+
+Q3: Q: The Indian Constitution was adopted on which date?
+a) January 26, 1950
+b) August 15, 1947
+c) November 26, 1949
+d) October 2, 1869
+Your Answer: c
+
+Q4: Q: Who was the first woman to become the Governor of an Indian state?
+a) Indira Gandhi
+b) Sarojini Naidu
+c) Vijayalakshmi Pandit
+d) Sucheta Kriplani
+Your Answer: b
+
+Q5: Q: Which river is known as the 'Sorrow of Bihar'?
+a) Ganga
+b) Yamuna
+c) Kosi
+d) Brahmaputra
+Your Answer: c
+
+Q6: Q: The Gateway of India is located in which city?
+a) New Delhi
+b) Kolkata
+c) Chennai
+d) Mumbai
+Your Answer: d
+
+Gemini Feedback:
+Okay, let's evaluate the answers. Note that there are 6 questions, but the instructions ask to give a score out of 5. So, I will evaluate all answers and then normalize the score.
+
+*   **Q1:** Invalid question. It is just a description. No correct answer possible. Let's assume no points awarded.
+
+*   **Q2:** The correct answer is **c) Aravalli Range**. The user answered **a) Himalayas**, which is incorrect. - **0 points**
+
+*   **Q3:** The correct answer is **c) November 26, 1949**. The user answered **c) November 26, 1949**, which is correct. - **1 point**
+
+*   **Q4:** The correct answer is **b) Sarojini Naidu**. The user answered **b) Sarojini Naidu**, which is correct. - **1 point**
+
+*   **Q5:** The correct answer is **c) Kosi**. The user answered **c) Kosi**, which is correct. - **1 point**
+
+*   **Q6:** The correct answer is **d) Mumbai**. The user answered **d) Mumbai**, which is correct. - **1 point**
+
+**Total Correct Answers:** 4 out of 6
+**Raw Score:** 4
+
+**Normalized Score (out of 5):** (4/6) * 5 = 3.33
+
+**Final Score: 3.33 / 5**
+

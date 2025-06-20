@@ -1,0 +1,80 @@
+==== Quiz Attempt ====
+Q1: Q: Which of the following is the highest civilian award in India?
+a) Padma Vibhushan
+b) Bharat Ratna
+c) Padma Bhushan
+d) Padma Shri
+Your Answer: b
+
+Q2: Q: The 'Chipko Movement' was primarily associated with:
+a) Wildlife Conservation
+b) Forest Conservation
+c) Water Conservation
+d) Soil Conservation
+Your Answer: b
+
+Q3: Q: Who was the first President of the Indian National Congress?
+a) Mahatma Gandhi
+b) Dadabhai Naoroji
+c) Womesh Chunder Bonnerjee
+d) Surendranath Banerjee
+Your Answer: d
+
+Q4: Q: The river Ganga originates from which glacier?
+a) Siachen Glacier
+b) Gangotri Glacier
+c) Yamunotri Glacier
+d) Milam Glacier
+Your Answer: b
+
+Q5: Q: Which state is known as the 'Spice Garden of India'?
+a) Karnataka
+b) Kerala
+c) Assam
+d) Andhra Pradesh
+Your Answer: b
+
+Gemini Feedback:
+Here's an evaluation of your multiple-choice answers:
+
+**Q1:**
+
+*   **Correct Answer:** b) Bharat Ratna
+*   **Your Answer:** b) Bharat Ratna
+*   **Evaluation:** Correct
+*   **Explanation:** Bharat Ratna is indeed the highest civilian award in India.
+
+**Q2:**
+
+*   **Correct Answer:** b) Forest Conservation
+*   **Your Answer:** b) Forest Conservation
+*   **Evaluation:** Correct
+*   **Explanation:** The Chipko Movement was a non-violent social and ecological movement that prevented the felling of trees.
+
+**Q3:**
+
+*   **Correct Answer:** c) Womesh Chunder Bonnerjee
+*   **Your Answer:** d) Surendranath Banerjee
+*   **Evaluation:** Incorrect
+*   **Correction:** The first President of the Indian National Congress was **Womesh Chunder Bonnerjee**.
+
+**Q4:**
+
+*   **Correct Answer:** b) Gangotri Glacier
+*   **Your Answer:** b) Gangotri Glacier
+*   **Evaluation:** Correct
+*   **Explanation:** The river Ganga originates from the Gangotri Glacier.
+
+**Q5:**
+
+*   **Correct Answer:** b) Kerala
+*   **Your Answer:** b) Kerala
+*   **Evaluation:** Correct
+*   **Explanation:** Kerala is well known for its spices and is therefore called the "Spice Garden of India".
+
+**Summary:**
+
+*   **Number of correct answers:** 4
+*   **Total score (out of 5):** 4/5
+*   **Incorrect answer:** Q3. The correct answer is c) Womesh Chunder Bonnerjee
+

@@ -1,0 +1,51 @@
+==== Quiz Attempt ====
+Q1: Here are 5 multiple-choice questions on Indian General Knowledge:
+Your Answer: a
+
+Q2: Q: Which of the following is the highest civilian award in India?
+a) Padma Vibhushan
+b) Bharat Ratna
+c) Padma Bhushan
+d) Param Vir Chakra
+Your Answer: a
+
+Q3: Q: The Indian National Congress was founded in which year?
+a) 1857
+b) 1885
+c) 1905
+d) 1947
+Your Answer: c
+
+Q4: Q: Who was the first woman Prime Minister of India?
+a) Indira Gandhi
+b) Pratibha Patil
+c) Sarojini Naidu
+d) Sucheta Kriplani
+Your Answer: b
+
+Q5: Q: Which river is known as the "Sorrow of Bihar"?
+a) Ganga
+b) Yamuna
+c) Kosi
+d) Brahmaputra
+Your Answer: d
+
+Q6: Q: The Ajanta Caves, known for their murals and frescoes, are located in which state?
+a) Rajasthan
+b) Madhya Pradesh
+c) Maharashtra
+d) Gujarat
+Your Answer: a
+
+Gemini Feedback:
+Okay, here's the evaluation of the user's answers:
+
+*   **Q1:** Unanswerable since the question is missing. Assuming incorrect.
+*   **Q2:** Incorrect. The correct answer is (b) Bharat Ratna.
+*   **Q3:** Incorrect. The correct answer is (b) 1885.
+*   **Q4:** Incorrect. The correct answer is (a) Indira Gandhi.
+*   **Q5:** Incorrect. The correct answer is (c) Kosi.
+*   **Q6:** Incorrect. The correct answer is (c) Maharashtra.
+
+**Total Score: 0 / 5**
+

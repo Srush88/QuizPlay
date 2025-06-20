@@ -1,0 +1,40 @@
+==== Quiz Attempt ====
+Q1: Q: Which of the following is the highest mountain peak in India?
+a) Kanchenjunga
+b) Nanda Devi
+c) Kamet
+d) Saltoro Kangri
+Your Answer: b
+
+Q2: Q: The Indian Constitution was adopted on which date?
+a) January 26, 1950
+b) August 15, 1947
+c) November 26, 1949
+d) December 9, 1946
+Your Answer: c
+
+Q3: Q: Who was the first woman Prime Minister of India?
+a) Indira Gandhi
+b) Pratibha Patil
+c) Sarojini Naidu
+d) Sucheta Kriplani
+Your Answer: a
+
+Q4: Q: The "Chipko Movement" was primarily associated with?
+a) Wildlife Conservation
+b) Forest Conservation
+c) Water Conservation
+d) Soil Conservation
+Your Answer: b
+
+Q5: Q: Which of the following is the largest state in India by area?
+a) Uttar Pradesh
+b) Madhya Pradesh
+c) Maharashtra
+d) Rajasthan
+Your Answer: d
+
+Gemini Feedback:
+Number of correct answers: 4
+Total score: 4/5
+
